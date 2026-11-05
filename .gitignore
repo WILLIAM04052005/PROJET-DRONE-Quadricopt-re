@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# SITL / simulateur
+quadcopter_simulator_last_used_coordinates.txt
+*.tlog
+*.tlog.raw
+eeprom.bin
+logs/
+
+# Système
+.DS_Store
+Thumbs.db

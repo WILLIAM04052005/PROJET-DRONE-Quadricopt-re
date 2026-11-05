@@ -1,0 +1,7 @@
+# Python 3.8 / 3.9 recommandé (DroneKit n'est pas compatible avec Python >= 3.10)
+dronekit==2.9.2
+dronekit-sitl==3.3.0
+pymavlink>=2.4
+geocoder>=1.38
+geopy>=2.0
+future>=0.18
