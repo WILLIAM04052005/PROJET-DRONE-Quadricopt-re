@@ -17,7 +17,7 @@ Rapport complet : [EEE_rapport-semestre-2.pdf](../rapports/EEE_rapport-semestre-
 
 Le compas donne l'orientation magnétique du drone, donc son cap en vol.
 
-> ⚠️ Ne pas calibrer près de masses métalliques ou de sources d'interférences magnétiques (parkings, dalles en béton armé, ponts, voitures, échafaudages, antennes relais), ni avec un téléphone en poche. Choisir un espace dégagé.
+>ATTENTIO : Ne pas calibrer près de masses métalliques ou de sources d'interférences magnétiques (parkings, dalles en béton armé, ponts, voitures, échafaudages, antennes relais), ni avec un téléphone en poche. Choisir un espace dégagé.
 
 1. *Compass → Live calibration → OK*.
 2. Tenir le drone à l'horizontale et le faire tourner sur 360°.
@@ -57,7 +57,7 @@ Il fixe la référence « à plat » du drone. Une mauvaise calibration rend le 
 
 ## D. ESC (contrôleurs de vitesse)
 
-> ⚠️ **Hélices démontées**, autopilote **non relié en USB**, batterie LiPo débranchée avant de commencer.
+> **Hélices démontées**, autopilote **non relié en USB**, batterie LiPo débranchée avant de commencer.
 
 Trois méthodes existent. Celle qui a fonctionné sur notre drone est la **calibration manuelle ESC par ESC**.
 
