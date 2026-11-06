@@ -30,4 +30,3 @@ https://<serveur-icam>/recordLocation.php?fileName=dawn_iii.txt&lat=<latitude>&l
 
 Le serveur écrit alors dans `dawn_iii.txt` une ligne `latitude longitude action`, que `follow_me.py` lit toutes les secondes.
 
-> Le fichier source `.aia` n'était pas dans les ressources récupérées. Pour l'ajouter : App Inventor → *Projects* → *Export selected project (.aia) to my computer*, puis le déposer dans ce dossier.
